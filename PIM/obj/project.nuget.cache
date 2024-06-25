@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Ysy+7+g28LQ1fi3b41LI25FHlhVgUHFws2Cw1R/3fAtmwa/e/6mT3AlkFucd3VrlV0ZkAKeusn/sg2xNPXWnw==",
+  "success": true,
+  "projectFilePath": "D:\\Unip\\Programacao_Orientada_a_Objetos\\II\\Tarefas\\Entrega Final do Projeto Integrado Multidisciplinar PIM IV\\Arquivos Auxiliares Projeto Integrado Multidisciplinar PIM IV\\PIM\\PIM\\PIM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caio\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Caio\\.nuget\\packages\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
+    "C:\\Users\\Caio\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\Caio\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
